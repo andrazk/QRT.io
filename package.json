@@ -4,6 +4,10 @@
 	"main" : "index", 
 	"keywords" : ["qtm", "rt protocol"],
 	"author" : "Andraž Krašček <andraz.krascek@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrazk/rt-protocol.git"
+  },
 	"dependencies": {
 	
 	},
