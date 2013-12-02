@@ -1,0 +1,11 @@
+{
+	"name" : "rt-protocol",
+	"description": "QTM RT protocol implemenatation for Node.js",
+	"main" : "index", 
+	"keywords" : ["qtm", "rt protocol"],
+	"author" : "Andraž Krašček <andraz.krascek@gmail.com>",
+	"dependencies": {
+	
+	},
+	"version": "0.1.0"
+}
