@@ -9,7 +9,7 @@
     "url": "https://github.com/andrazk/rt-protocol.git"
   },
 	"dependencies": {
-	
+	 "xml2js": "*"
 	},
 	"version": "0.1.0"
 }
