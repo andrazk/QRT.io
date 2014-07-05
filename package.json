@@ -1,15 +1,21 @@
 {
-	"name" : "rt-protocol",
-	"description": "QTM RT protocol implemenatation for Node.js",
-	"main" : "index", 
-	"keywords" : ["qtm", "rt protocol"],
-	"author" : "Andraž Krašček <andraz.krascek@gmail.com>",
+  "author": "Andraz Krascek <andraz.krascek@gmail.com>",
+  "name": "QRT.io",
+  "description": "QTM RT protocol implemenatation for Node.js",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andrazk/rt-protocol.git"
+    "url": "git://github.com/andrazk/QRT.io.git"
   },
-	"dependencies": {
-	 "xml2js": "*"
-	},
-	"version": "0.1.0"
+  "dependencies": {
+    "xml2js": "*",
+    "int64-native": "^0.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.0"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
 }
