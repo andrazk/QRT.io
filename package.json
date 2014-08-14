@@ -11,9 +11,7 @@
     "xml2js": "*",
     "int64-native": "^0.3.0"
   },
-  "devDependencies": {
-    "gulp": "^3.6.0"
-  },
+  "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
     "node": "*"
